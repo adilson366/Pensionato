@@ -1,0 +1,14 @@
+C:\Users\adils\source\repos\Pencionato\Pencionato\bin\Debug\netcoreapp3.1\Pencionato.exe
+C:\Users\adils\source\repos\Pencionato\Pencionato\bin\Debug\netcoreapp3.1\Pencionato.deps.json
+C:\Users\adils\source\repos\Pencionato\Pencionato\bin\Debug\netcoreapp3.1\Pencionato.runtimeconfig.json
+C:\Users\adils\source\repos\Pencionato\Pencionato\bin\Debug\netcoreapp3.1\Pencionato.runtimeconfig.dev.json
+C:\Users\adils\source\repos\Pencionato\Pencionato\bin\Debug\netcoreapp3.1\Pencionato.dll
+C:\Users\adils\source\repos\Pencionato\Pencionato\bin\Debug\netcoreapp3.1\Pencionato.pdb
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.csproj.AssemblyReference.cache
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.AssemblyInfoInputs.cache
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.AssemblyInfo.cs
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.csproj.CoreCompileInputs.cache
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.dll
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.pdb
+C:\Users\adils\source\repos\Pencionato\Pencionato\obj\Debug\netcoreapp3.1\Pencionato.genruntimeconfig.cache
