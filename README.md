@@ -13,22 +13,22 @@ que seja escolhido um quarto vago. Ao final, seu programa deve imprimir
 um relatório de todas ocupações do pensionato, por ordem de quarto,
 conforme exemplo.
 
-Quantos quartos serão alugados? 3
-Aluguel #1:
-Nome: Maria Green
-Email: maria@gmail.com
-Quarto: 5
-Aluguel #2:
-Nome: Marco Antonio
-Email: marco@gmail.com
-Quarto: 1
-Aluguel #3:
-Nome: Alex Brown
-Email: alex@gmail.com
-Quarto: 8
-Quartos ocupados:
-1: Marco Antonio, marco@gmail.com
-5: Maria Green, maria@gmail.com
-8: Alex Brown, alex@gmail.com
+Quantos quartos serão alugados? 3  
+Aluguel #1:  
+Nome: Maria Green  
+Email: maria@gmail.com  
+Quarto: 5  
+Aluguel #2:  
+Nome: Marco Antonio  
+Email: marco@gmail.com  
+Quarto: 1  
+Aluguel #3:  
+Nome: Alex Brown  
+Email: alex@gmail.com  
+Quarto: 8  
+Quartos ocupados:  
+1: Marco Antonio, marco@gmail.com  
+5: Maria Green, maria@gmail.com  
+8: Alex Brown, alex@gmail.com  
 
 Observaçâo: estes nomes e e-mails foram usados sómente como exemplo sem nenhuma outra finalidade.
