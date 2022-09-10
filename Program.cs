@@ -8,24 +8,34 @@ namespace Pencionato
         {
             Quarto[] vect = new Quarto[10];
 
-            Console.WriteLine("Digite o numero de estudantes para entrada: ");
+            Console.Write("Quantos quartos serão alugados? ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+
+            for (int i = 1; i <= n; i++)
             {
-                Console.Write("Digite o nome do estudante: ");
+                Console.WriteLine();
+                Console.WriteLine($"Aluguel #{i}:");
+                Console.Write("Nome: ");
                 string nome = Console.ReadLine();
-                Console.Write("Digite o email do estudante: ");
+                Console.Write("Email: ");
                 string email = Console.ReadLine();
-                Console.Write("Digite o numero do quarto: ");
+                Console.Write("Quarto: ");
                 int quarto = int.Parse(Console.ReadLine());
 
                 vect[quarto] = new Quarto(nome, email, quarto);
             }
 
+            Console.WriteLine();
+            Console.WriteLine("Quartos ocupados:");
             foreach (Quarto item in vect)
             {
-                Console.WriteLine(item);
+
+                if (item != null)
+                {
+                    Console.WriteLine(item);
+                }
+
             }
 
         }

@@ -20,12 +20,12 @@ namespace Pencionato
 
         public override string ToString()
         {
-            return "Nome: "
+            return NumeroQuarto 
+                +": "
                 + Nome
-                + "  Email: "
-                + Email
-                + "  Quarto: "
-                + NumeroQuarto;
+                + ",  Email: "
+                + Email;
+               
         }
 
     }
