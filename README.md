@@ -31,4 +31,3 @@ Quartos ocupados:
 5: Maria Green, maria@gmail.com  
 8: Alex Brown, alex@gmail.com  
 
-Observaçâo: estes nomes e e-mails foram usados sómente como exemplo sem nenhuma outra finalidade.
